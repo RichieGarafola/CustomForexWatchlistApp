@@ -1,5 +1,10 @@
 # Forex Watchlist Charts
 
+Deployable Streamlit:
+https://forexwatchlist.streamlit.app/
+
+---
+
 ![Dashboard](./Images/dashboard.png)
 
 This is a Python script that creates customizable watchlist charts for financial symbols using data from Yahoo Finance. The script uses the yfinance library to retrieve financial data, and the Streamlit framework to create the interactive charts.
