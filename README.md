@@ -6,7 +6,7 @@ This is a Python script that creates customizable watchlist charts for financial
 
 The script allows the user to select multiple symbols and timeframes, and customize the chart type, color, and display settings. The available chart types are candlestick, Heikin Ashi, and line charts. The script also allows the user to show the current price and a price line chart, which plots the symbol's price over time on a separate y-axis.
 
-Overall, the app is a useful tool for investors and traders who want to quickly analyze financial data and track market trends.
+The app is a useful tool for investors and traders who want to quickly analyze financial data and track market trends.
 
 ---
 
