@@ -88,3 +88,5 @@ The sidebar contains the following options for selecting symbols, timeframes, an
 - Select Text Size: a slider for selecting the font size of the chart text.
     
 - Select Gaps Between Charts: a slider for selecting the gap size between the charts.
+
+
